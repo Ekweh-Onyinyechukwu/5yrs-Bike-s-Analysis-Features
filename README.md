@@ -139,7 +139,7 @@ How do riders use the brakes and throttle? This information can be used to devel
 Motorcycle drivetrain data is a valuable resource that can be used to improve the design, performance, reliability, and safety of motorcycles.
 
 
-### MOTORCYCLE PRICES BY MODELS
+### Motorcycle prices by Model:
 
 The most common price range for motorcycles is between ₹1 lakh and ₹2 lakh.
 
